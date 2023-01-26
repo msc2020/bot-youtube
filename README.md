@@ -1,29 +1,29 @@
 # Bot for watching video in YouTube
 
-How use:
+How to use:
 
-0. Install a Python 3 and package Selenium (`pip install selenium`)
+**0.** Install a Python 3 and package Selenium (`pip install selenium`)
 
-1. Run the Python script in your terminal:
+**1.** Run the Python script in your terminal:
 ```
 python bot_youtube.py
 ```
 
 <br/>
 
-1. Select the link for the video in Youtube
+**2.** Select the link for the video in Youtube
 
 <br/>
 
-2. Type the duration of video in seconds (attention for the unit `seconds` (s))
+**3.** Type the duration of video in seconds (attention for the unit `seconds` (s))
 
 <br/>
 
-3. Choose the number of times  that the bot will watching the video (e.g., 2x or 3x for tests, 50x for large tests)
+**4.** Choose the number of times  that the bot will watching the video (e.g., 2x or 3x for tests, 50x for large tests)
 
 <br/>
 
-4. Select the number of windows that will be open at same time for see your the video
+**5.** Select the number of windows that will be open at same time for see your the video
 
 <br/>
 
