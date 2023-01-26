@@ -95,3 +95,4 @@ for k in range(n):
 
 # references
 # https://stackoverflow.com/questions/67456411/youtube-automation-with-python-and-selenium
+# https://www.selenium.dev/
