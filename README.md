@@ -1,4 +1,4 @@
-# Bot to watch video in YouTube
+# Bot to watch video on YouTube
 
 How to use:
 
