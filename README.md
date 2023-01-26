@@ -27,7 +27,7 @@ python bot_youtube.py
 
 <br/>
 
-5. Waiting for the bot watching (is this will be generate visualizations ?) . . .
+**6.** Waiting for the bot watching (is this will be generate visualizations ?) . . .
 
 <br/>
 
