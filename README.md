@@ -35,7 +35,7 @@ python bot_youtube.py
 
 <br/>
 
-5. Waiting for the bot
+**6.** Waiting for the bot
 
 <br/>
 
