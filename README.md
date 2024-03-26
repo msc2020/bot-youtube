@@ -4,43 +4,34 @@
 
 <br/>
 
-**0.** Install a Python 3 and package Selenium (`pip install selenium`). 
+**1.** Install a Python 3 and package Selenium (`pip install selenium`). 
 
 <br/>
 
-**1.** Download Chrome driver correspondent to your Google Chrome navigator (https://chromedriver.storage.googleapis.com/index.htm), e.g., the version 100.0.4896.20 for Linux.
-
-**0.** Install a Python 3 and package Selenium (`pip install selenium`)
-
 **2.** Run the Python script in your terminal:
-```
+```shell
 python bot_youtube.py
 ```
 
 <br/>
 
-**2.** Select the link for the video in Youtube
+**3.** Select the link for the video in Youtube
 
 <br/>
 
-**3.** Type the duration of video in seconds (attention for the unit `seconds` (s))
+**4.** Type the duration of video in seconds (s)
 
 <br/>
 
-**4.** Choose the number of times  that the bot will watching the video (e.g., 2x or 3x for tests, 50x for large tests)
+**5.** Choose the number of times  that the bot will watching the video (e.g., 2x or 3x for tests, 50x for large tests)
 
 <br/>
 
-**5.** Select the number of windows that will be open at same time for see your the video
+**6.** Select the number of windows that will be open at same time for see the video
 
 <br/>
 
-**6.** Waiting for the bot
-
-<br/>
-
-
-## Example:
+**7.** Wait until that the bot watch the video
 
 <br/>
 
